@@ -24,7 +24,7 @@
 
 ### 🧰 Tech Stack
 
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=python,git,github,linux,docker,html,css" />
 </p>
 
@@ -47,10 +47,6 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lalithreddy-12&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=lalithreddy-12&theme=tokyonight&hide_border=true" />
 </p>
 
@@ -58,6 +54,6 @@
 
 ### ⚡ Quick Note
 
-<p align="center">
+<p align="left">
 Building scalable systems, improving reliability, and continuously leveling up as an engineer 🚀
 </p>
